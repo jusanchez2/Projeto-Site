@@ -14,3 +14,12 @@
      padding: 10px;
      box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.452);
  }
+
+ h1{
+     font-size: 2em;
+     color: rgb(56, 15, 94);
+ }
+
+ img.lado{
+     float: right;
+ }
